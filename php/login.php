@@ -1,7 +1,7 @@
 <?php
     if(isset($_POST['submit']) && !empty($_POST['nome']) && !empty($_POST['senha']))
     {
-        $conexao = mysqli_connect("localhost:3306", "root", "Oportunity23#", "Desafio");
+        $conexao = mysqli_connect("localhost:3306", "root", "SENHAUSUARIO", "Desafio");
         $nome = $_POST["nome"];
         $senha = $_POST["senha"];
         

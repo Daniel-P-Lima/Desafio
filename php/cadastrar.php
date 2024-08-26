@@ -1,6 +1,6 @@
 <?php
 
-    $conexao = mysqli_connect("localhost:3306", "root", "Oportunity23#", "Desafio");
+    $conexao = mysqli_connect("localhost:3306", "root", "SENHAUSUARIO", "Desafio");
     $nome = $_POST["nome"];
     $senha = $_POST["senha"];
     $genero = $_POST["escolha"];
