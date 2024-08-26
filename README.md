@@ -8,6 +8,11 @@
 - Onde está escrito: "SENHADOUSUARIO" no PHP, deve ser mudado para a sua senha de usuário no MySQL, exemplo na imagem 2
 - Para facilitar, crie uma pasta "Desafio" e clone o repositório dentro dela. Deve-se colocar a pasta do projeto dentro da htdocs do XAMPP/APACHE para que possa ser executado, Imagem 3 mostra como.
 
+# PROGRAMAS (Obrigatórios)
+- XAMPP: https://www.apachefriends.org/pt_br/index.html
+- MySQL Workbench: https://www.mysql.com/products/workbench/
+- MySQL Community Server: https://dev.mysql.com/downloads/mysql/
+
 ### Imagem 1
 <img src="./img/Captura de Tela 2024-08-26 às 17.06.02.png">
 
