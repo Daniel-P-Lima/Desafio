@@ -3,9 +3,8 @@
 - Criação de um HTML, CSS, JS e PHP
 - Conexão do banco de dados deve ser feita no MySQL 
 - Criação da DB "Desafio" com Tabela "pessoa"
-- Tabela pessoa deve ter "idpessoa", "apelido", "senha", "genero"
-- Imagem 1 mostra a criação da DB e da Tabela
-- Onde está escrito: "SENHADOUSUARIO" no PHP, deve ser mudado para a sua senha de usuário no MySQL, exemplo na imagem 2
+- Tabela pessoa deve ter "idpessoa", "apelido", "senha", "genero", Imagem 1 mostra a criação da DB e da Tabela
+- Onde está escrito: "SENHADOUSUARIO" no PHP, deve ser mudado para a sua senha de usuário no MySQL, exemplo na Imagem 2
 - Para facilitar, crie uma pasta "Desafio" e clone o repositório dentro dela. Deve-se colocar a pasta do projeto dentro da htdocs do XAMPP/APACHE para que possa ser executado, Imagem 3 mostra como.
 
 # PROGRAMAS (Obrigatórios)
