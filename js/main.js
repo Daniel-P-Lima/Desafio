@@ -1,5 +1,5 @@
 async function cadastrar(){
-    var form = document.getElementById('formulario')
+    var form = document.getElementById('formulario');
     var dados = new FormData(form);
 
     if(!dados.get('nome') || !dados.get('senha') || !dados.get('escolha')) {
