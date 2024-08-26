@@ -1,7 +1,7 @@
 # 💻 DESAFIO API BANCO DE DADOS
 - Criação de um HTML, CSS, JS e PHP
 - Conexão do banco de dados deve ser feita no MySQL 
-## Intruções
+## Instruções
 - Criação da DB "Desafio" com Tabela "pessoa"
 - Tabela pessoa deve ter "idpessoa", "apelido", "senha", "genero", Imagem 1 mostra a criação da DB e da Tabela
 - Onde está escrito: "SENHADOUSUARIO" no PHP, deve ser mudado para a sua senha de usuário no MySQL, exemplo na Imagem 2
