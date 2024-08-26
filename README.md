@@ -6,6 +6,8 @@
 - Tabela pessoa deve ter "idpessoa", "apelido", "senha", "genero"
 - Imagem 1 mostra a criação da DB e da Tabela
 - Aonde está escrito: "SENHADOUSUARIO" no PHP, deve ser mudado para a sua senha de usuário no MySQL
+- Para facilitar, crie uma pasta "projeto" e clone o repositório dentro dela
+- Deve-se colocar a pasta do projeto dentro da htdocs do XAMPP/APACHE para que possa ser executada
 
 ### Imagem 1
 <img src="./img/Captura de Tela 2024-08-26 às 17.06.02.png">
