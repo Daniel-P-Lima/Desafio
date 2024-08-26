@@ -1,0 +1,67 @@
+body{
+    background-color: #EEEEEE;
+    font-family: "Roboto", sans-serif;
+}
+
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: solid 0.1px black;
+    padding: 20px;
+    border-radius: 15px;
+    width: 20%;
+}
+
+
+.nome{
+    background: none;
+    border: none;
+    border-bottom: solid 1px black;
+    outline: none;
+    font-size: 15px;
+    width: 100%;
+}
+
+.senha{
+    background: none;
+    border: none;
+    border-bottom: solid 1px black;
+    outline: none;
+    font-size: 15px;
+    width: 100%;
+}
+
+.button{
+    background: none;
+    border: solid 0.1px black;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 100%;
+    padding: 12px;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #a3a2a2;
+}
+
+.SubmitButton{
+    background: none;
+    border: solid 0.1px black;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 100%;
+    padding: 12px;
+}
+
+.SubmitButton:hover{
+    cursor: pointer;
+    background-color: #a3a2a2;
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+}

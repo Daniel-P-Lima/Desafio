@@ -1,0 +1,39 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Cadastro</title>
+</head>
+<body>
+    <section class="box">
+        <h1>Cadastre-se</h1>
+        <form action="" class="formulario" id="formulario">
+            <div class="nome">
+                <p>Nome de Usuário</p>
+                <input class="nome" type="text" name="nome" id="" placeholder="Nome" required>
+            </div>
+            <br>
+            <div class="senha">
+                <p>Senha</p>
+                <input class="senha" type="password" name="senha" id="senha" placeholder="Senha" required>
+            </div>
+
+            <p>Gênero</p>
+            <div class="genero">
+                <select name="escolha" id="escolha" required>
+                    <option value="M">Masculino</option>
+                    <option value="F">Feminino</option>
+                    <option value="N">Prefiro não responder</option>
+                </select>
+            </div>
+            <br>
+            <button class="button" type="button" onclick="cadastrar()">Cadastrar Usuário</button>
+        </form>
+
+        <p>Já tem uma conta?</p>
+        
+        <a href="login.html"><button class="button" >Login</button></a>
+    </section>
+</body>
+<script src="./js/main.js"></script>
+</html>

@@ -1,0 +1,25 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <section class="box">
+        <h1>Login</h1>
+        <form action="./php/login.php" class="formulario" id="formulario" method="POST">
+            <div>
+                <p>Nome de Usuário</p>
+                <input class="nome" type="text" name="nome" id="nome" placeholder="Nome" required>
+            </div>
+            <br>
+            <div>
+                <p>Senha</p>
+                <input class="senha" type="password" name="senha" id="senha" placeholder="Senha" required>
+            </div>
+            <br>
+            <button type="submit" name="submit" value="Enviar" class="SubmitButton">Login</button>
+        </form>
+</body>
+    <script src="./js/login.js" ></script>
+</html>
