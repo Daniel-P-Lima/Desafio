@@ -12,7 +12,7 @@
 
 
 ## 🚀 Implementações
-- [x] HTML e CSS funcionais com JS e PHP també
+- [x] HTML e CSS funcionais com JS e PHP também
 - [x] PHP validando o nome e senha do usuário no banco
 - [x] PHP validando nome único no banco
 - [x] Senha com limite de caracteres
